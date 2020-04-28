@@ -1,1 +1,2 @@
 # Horizon
+**THIS IS MY EXERCISING COMMANDS**
